@@ -1,0 +1,3 @@
+Solutions here to string problems are typically done in C++ and not C.
+
+This is due to the fact that C++'s stream handling allows reading of strings into the string type without having to worry about its length.  This is different to C, where reading is done into a character array that needs a size specified when created.  This can be troublesome when the (maximum size of the) string is not always known beforehand so the array allocated may not be not large enough for the string of interest.
