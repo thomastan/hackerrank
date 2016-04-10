@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/two-strings
+// http://hackerrank.com/challenges/two-strings
 #include <iostream>
 #include <string>
 using namespace std;
